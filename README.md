@@ -1,3 +1,11 @@
+# Intro
+
+This is a project that displays various quotes from different main characters of the shows "Breaking Bad" & "Better Call Saul" on each render.
+
+# API
+
+API is brought in from [https://breakingbadapi.com/](https://breakingbadapi.com/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -60,11 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 ### Advanced Configuration
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
