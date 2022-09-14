@@ -2,7 +2,7 @@
 
 This is a project that displays various quotes from different main characters of the shows "Breaking Bad" & "Better Call Saul" on each render.
 
-# API
+## API
 
 API is brought in from [https://breakingbadapi.com/](https://breakingbadapi.com/)
 
